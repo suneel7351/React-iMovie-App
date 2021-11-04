@@ -1,0 +1,29 @@
+.movieCard {
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  width: 280px;
+  cursor: pointer;
+  box-shadow: 0px 3px 10px #aaa;
+}
+.movieCard > img {
+  height: 410px;
+  object-fit: cover;
+}
+.movieCard > div {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.movieCard > div > span {
+  text-transform: capitalize;
+}
+.movieCard > span {
+  font-size: 18px;
+  font-weight: 600;
+  color: black;
+  margin: 15px 0px;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
