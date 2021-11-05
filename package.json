@@ -2,7 +2,7 @@
   "name": "movie",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://suneel7351.github.io/React-Movie-App",
+  "homepage": "http://suneel7351.github.io/React-iMovie-App",
   "dependencies": {
     "@testing-library/jest-dom": "^5.15.0",
     "@testing-library/react": "^11.2.7",

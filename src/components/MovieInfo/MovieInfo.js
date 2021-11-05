@@ -1,11 +1,11 @@
 import React, { useState, useEffect } from "react";
 import "./MovieInfo.css";
-import axios from "axios";
+import Axios from "axios";
 const MovieInfo = (props) => {
   const [movieInfo, setMovieInfo] = useState();
   const { movieSelect } = props;
   useEffect(() => {
-    axios
+    Axios
       .get(`http://www.omdbapi.com/?i=${movieSelect}&apikey=a5487446`)
       .then((response) => {
         setMovieInfo(response.data);
