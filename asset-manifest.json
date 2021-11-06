@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/React-iMovie-App/static/css/main.f60b5cd6.chunk.css",
-    "main.js": "/React-iMovie-App/static/js/main.344ea127.chunk.js",
-    "main.js.map": "/React-iMovie-App/static/js/main.344ea127.chunk.js.map",
+    "main.js": "/React-iMovie-App/static/js/main.8367f04a.chunk.js",
+    "main.js.map": "/React-iMovie-App/static/js/main.8367f04a.chunk.js.map",
     "runtime-main.js": "/React-iMovie-App/static/js/runtime-main.0ccbaca8.js",
     "runtime-main.js.map": "/React-iMovie-App/static/js/runtime-main.0ccbaca8.js.map",
-    "static/js/2.717dfe9c.chunk.js": "/React-iMovie-App/static/js/2.717dfe9c.chunk.js",
-    "static/js/2.717dfe9c.chunk.js.map": "/React-iMovie-App/static/js/2.717dfe9c.chunk.js.map",
+    "static/js/2.1d2c76c6.chunk.js": "/React-iMovie-App/static/js/2.1d2c76c6.chunk.js",
+    "static/js/2.1d2c76c6.chunk.js.map": "/React-iMovie-App/static/js/2.1d2c76c6.chunk.js.map",
     "static/js/3.31e537cd.chunk.js": "/React-iMovie-App/static/js/3.31e537cd.chunk.js",
     "static/js/3.31e537cd.chunk.js.map": "/React-iMovie-App/static/js/3.31e537cd.chunk.js.map",
     "index.html": "/React-iMovie-App/index.html",
     "static/css/main.f60b5cd6.chunk.css.map": "/React-iMovie-App/static/css/main.f60b5cd6.chunk.css.map",
-    "static/js/2.717dfe9c.chunk.js.LICENSE.txt": "/React-iMovie-App/static/js/2.717dfe9c.chunk.js.LICENSE.txt",
+    "static/js/2.1d2c76c6.chunk.js.LICENSE.txt": "/React-iMovie-App/static/js/2.1d2c76c6.chunk.js.LICENSE.txt",
     "static/media/MovieSvg.db48b493.svg": "/React-iMovie-App/static/media/MovieSvg.db48b493.svg",
     "static/media/SearchIcon.cdf72d66.svg": "/React-iMovie-App/static/media/SearchIcon.cdf72d66.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.0ccbaca8.js",
-    "static/js/2.717dfe9c.chunk.js",
+    "static/js/2.1d2c76c6.chunk.js",
     "static/css/main.f60b5cd6.chunk.css",
-    "static/js/main.344ea127.chunk.js"
+    "static/js/main.8367f04a.chunk.js"
   ]
 }
